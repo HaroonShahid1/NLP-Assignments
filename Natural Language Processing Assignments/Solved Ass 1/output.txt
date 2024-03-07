@@ -1,0 +1,7 @@
+freq of  1st word: 2
+freq of  4th word: 2
+First word will be: Zalima
+Second word will be: coka
+Third word will be: cola
+Fourth word will be: Pila
+Final Message will be : Zalima coka cola Pila de
